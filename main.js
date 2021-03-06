@@ -12,8 +12,8 @@ function draw(){
     stroke(117, 8, 212);
     strokeWeight(10);
     rect(50,50,540,380,20,20,20,20);
-    fill("yellow");
-    stroke("green");
+    fill(228, 232, 16);
+    stroke(17, 214, 20);
     circle(50,50,40);
     image(video,120,120,400,240);
 }
